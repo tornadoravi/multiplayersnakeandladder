@@ -1,0 +1,52 @@
+.popupscreen{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('../assests/jungle-cartoon-background.jpg');
+    background-size: 100%;
+    object-fit: cover;
+    background-repeat: no-repeat;
+}
+.inputdata{
+    width: 50%;
+    height: 50%;
+    background-color:gold;
+     
+    
+}
+.nputda{
+    margin-top: 3%;
+    border-radius: 10px;
+size: 20%;
+    border: none;
+}
+#sideimgsss2{
+    width: 30%;
+}
+
+.starter{
+    margin-top: 3%;
+    /* background-color: blue; */
+
+}
+#startimager{
+    width: 20%;
+}
+
+
+#startimager:hover{
+    width: 17%;
+
+}
+.numplayer{
+    font-size: 30px;
+    font-weight: bolder;
+}
+.statermain{
+    /* width: 50%; */
+    background-color: rgba(83, 83, 83, 0.308);
+    border-radius: 10%;
+
+}
+.hidden{
+    display: none;
+}

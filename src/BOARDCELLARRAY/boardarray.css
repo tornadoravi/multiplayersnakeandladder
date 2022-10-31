@@ -1,0 +1,88 @@
+
+/* .cell100 {
+    width: 100%;
+    height: 100%;
+    animation: blinkingBackgrounds 5s infinite;
+}
+@keyframes blinkingBackgrounds{
+    0%		{ background-color: #ff9100;}
+    25%		{ background-color: #0061f3;}
+    50%		{ background-color: #00ff37;}
+    75%		{ background-color: #d3eb00;}
+    100%	{ background-color: #d504b9;}
+} */
+
+@keyframes blinkingBackground{
+    0%		{ background-color: #ff000080;}
+    25%		{ background-color: #6b6b6b9d;}
+    50%		{ background-color: #ff000080;}
+    75%		{ background-color: #6b6b6b9d;}
+    100%	{ background-color: #ff000080;}
+}
+
+#boxId83 {
+    width: 100%;
+    height: 100%;
+    animation: blinkingBackground 1.1s infinite;
+}
+
+#boxId75 {
+    width: 100%;
+    height: 100%;
+    animation: blinkingBackground 1.2s infinite;
+}
+#boxId17 {
+    width: 100%;
+    height: 100%;
+    animation: blinkingBackground 1.1s infinite;
+}
+#boxId56 {
+    width: 100%;
+    height: 100%;
+    animation: blinkingBackground 1.2s infinite;
+}
+#boxId83 {
+    width: 100%;
+    height: 100%;
+    animation: blinkingBackground 1s infinite;
+}
+#boxId99 {
+    width: 100%;
+    height: 100%;
+    animation: blinkingBackground 1.1s infinite;
+}
+@keyframes blinkingBackgroundgreen{
+    0%		{ background-color: #00ff6270;}
+    25%		{ background-color: #6b6b6b9d;}
+    50%		{ background-color: #00ff6270;}
+    75%		{ background-color: #6b6b6b9d;}
+    100%	{ background-color: #00ff6270;}
+}
+#boxId6 {
+    width: 100%;
+    height: 100%;
+    animation: blinkingBackgroundgreen 1.2s infinite;
+}
+
+#boxId24 {
+    width: 100%;
+    height: 100%;
+    animation: blinkingBackgroundgreen 1s infinite;
+}
+#boxId36 {
+    width: 100%;
+    height: 100%;
+    animation: blinkingBackgroundgreen 1.2s infinite;
+}
+#boxId70 {
+    width: 100%;
+    height: 100%;
+    animation: blinkingBackgroundgreen 1s infinite;
+}
+#boxId44 {
+    width: 100%;
+    height: 100%;
+    animation: blinkingBackgroundgreen 1.2s infinite;
+}
+
+

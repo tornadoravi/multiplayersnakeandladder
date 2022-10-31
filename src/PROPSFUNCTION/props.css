@@ -1,0 +1,24 @@
+.props{
+    /* width: 100%; */
+    /* height: 80%; */
+    border: 2px solid brown;
+    border-radius: 4px;
+    box-shadow: rgb(8, 8, 8) 0px 20px 30px;
+    /* background-color: rgba(255, 255, 255, 0.404); */
+    backdrop-filter: blur(3px);
+}
+.iconss{
+    background-color: rgb(182, 105, 4);
+    border-radius: 5px;
+    font-weight: bolder;
+    color: white;
+}
+.numtitle{
+    color: white;
+    font-size: 18px;
+}
+.splcelicons{
+    font-size: 10px;
+    font-weight: bolder;
+    /* background-color: blueviolet; */
+}
