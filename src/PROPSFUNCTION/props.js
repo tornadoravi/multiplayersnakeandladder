@@ -1,12 +1,13 @@
 import React from 'react'
 import Prop2 from './prop2'
 import './props.css'
+import { playerObject } from '../MULTIPOPUP/playername'
 const PlayersFunction = ({ id, className, cellNUM,players,splCel}) => {
   let playersCoins = players
   let arr=[]
   for(let i in playersCoins){
     if(playersCoins[i]==='in'){
-      arr.push(i)
+      arr.push(playerObject[i])
     }
   }
   return (
